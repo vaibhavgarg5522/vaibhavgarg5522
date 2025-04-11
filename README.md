@@ -19,7 +19,7 @@
 ### 💼 Portfolio
 
 Check out my live portfolio here:  
-👉 [vaibhav-garg-portfolio.vercel.app](https://vaibhav-garg-portfolio.vercel.app)
+👉 [my-portfolio-pdt1.vercel.app](https://my-portfolio-pdt1.vercel.app/)
 
 ---
 
